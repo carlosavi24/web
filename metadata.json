@@ -1,0 +1,5 @@
+{
+  "name": "Contador de Tiempo Interactivo",
+  "description": "Una aplicación de contador de tiempo (cronómetro) elegante y funcional con controles de inicio, parada y reinicio. Creada con React, TypeScript y Tailwind CSS para una interfaz de usuario moderna y receptiva.",
+  "requestFramePermissions": []
+}
